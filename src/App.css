@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+ul{
+  list-style: none;
+}
+
+img{
+  width:110vw;
+}
+
+.header-logo img{
+  width:40vw;
+}
+
+.engine-type{
+  font-size: 4vw;
+}
+h1{
+  font-size: 8vw;
+}
+
+h3{
+  font-size: 6vw;
+}
+
+ul{
+  list-style: none;
+}
+
+img{
+  width:90vw;
+}
+
+.engine-type{
+  font-size: 4vw;
+}
+h1{
+  font-size: 8vw;
+}
+
+h3{
+  font-size: 6vw;
+}
+
+p.explanation {
+  font-size: 3vw;
+  text-align: left;
+}
